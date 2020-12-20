@@ -1,6 +1,6 @@
 # HCI_13
-# Deal
-**Yêu cầu nhóm Trước 23h59 ngày thứ 2 21/12**
+
+# Yêu cầu nhóm Trước 23h59 ngày thứ 2 21/12
 
 * Mỗi nhóm update lại video mẫu thử nếu cần. Upload lên [thư mục GG](https://drive.google.com/drive/folders/16nH6KB0VkVwJOJMU9sJ0_8sRo9cSirvB?fbclid=IwAR231yUK95kn6auH-CEjzL115XTSXdGnjci8AHjb1eHV5zYu4TUH-17Loxo) chia sẻ hoặc youtube
 
@@ -10,10 +10,12 @@
 *Báo cáo này sẽ in ra để nộp hôm bảo vệ (in 2 mặt, ko cần đóng bìa màu / nilon – vẫn có trang bìa).*
 
 * Mỗi nhóm nộp bài trên hệ thống LMS, hạn nộp + nội dung nộp như trên LMS.
-**Yêu cầu cá nhân Trước 23h59 ngày thứ 5 25/12**
+
+
+# Yêu cầu cá nhân Trước 23h59 ngày thứ 5 25/12
 
 * Mỗi cá nhân submit [Google form](https://forms.gle/8Xrndcs9gxakTkcc9) đánh giá mẫu thử của nhóm được phân công trên quan điểm người dùng.
-* 
+  
 * Mỗi cá nhân upload [file excel](https://drive.google.com/file/d/12qbOYl6tA3S37wsvSzud4tofTQfa6ZgW/view?fbclid=IwAR1qEvDV-rwWlWx6hwWe7CWNAXwxsiY8Zw2Y2wJhFTuBdgfjQCxoxSIdwkc) đánh giá mẫu thử của nhóm được phân công trên quan điểm chuyên gia
   
 * Upload lên thư mục của nhóm được đánh giá. Tên file theo quy ước: Định danh người đánh giá _ Mã nhóm được đánh giá _ Vai trò.xlsx
