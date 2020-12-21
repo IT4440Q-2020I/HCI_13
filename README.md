@@ -8,4 +8,5 @@
 * Đỗ Đình Thắng    20148984
 
 # Hướng dẫn chạy chương trình
-* 
+* clone repo này về máy
+* Mở file index.html
